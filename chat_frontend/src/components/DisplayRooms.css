@@ -1,0 +1,34 @@
+.display-container{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+}
+
+.display-container p {
+    font-size: 25px;
+    color: #666;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.display-container ul {
+    list-style: none;
+    display: grid;
+}
+
+.display-container ul li {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+}
+
+.display-container ul li button{
+    width: 90%;
+    height: 30px;
+    color: #FFF;
+    background-color: #666;
+    border: 0;
+    margin-bottom: 10px;
+}
