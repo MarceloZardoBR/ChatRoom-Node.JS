@@ -1,14 +1,14 @@
-# Projetos Chat
+# Chat Project
 
-Plataforma simples de chat de bate papo com salas. Desenvolvido para praticar o uso do Socket.IO
+Simple Platform of Chats with Rooms. Developed to practice Socket.IO.
+Feel free to clone and test if you want :)
 
-## Tecnologias Usadas
+## Technologies Used
 
 - React.js (Hooks)
 - Node.js
 - Socket.IO
 - MongoDB
-- Axios
 
 ## Developed By
 
